@@ -1,0 +1,13 @@
+welcome: "Welcome to Calculator! Enter your name:"
+name_error: "Please input a valid name"
+# hi: "Hi #{name}!"
+first_num: "What's the first number?"
+num_error: "Not a valid number"
+second_num: "Whats the second number?"
+op_error: "Must choose 1, 2, 3, or 4"
+# running_msg: "#{operation_to_message(operator)} the two numbers..."
+# result: "The result is #{result}"
+again: "Do you want to perform another calculation? (Y to calculate again)"
+bye: "Thank you. Goodbye!"
+
+# could not figure out how to reference variable created in calculator.rb ie #{name} and have it populate correctly if that MESSAGE[key] is stored in this YAML file
