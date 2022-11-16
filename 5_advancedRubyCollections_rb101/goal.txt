@@ -1,0 +1,6 @@
+When faced with a coding problem that requires you to iterate through a complex nested collection it is important to focus on:
+
+What is happening at each level of iteration
+What each method does with the return value of the block
+What the method itself returns
+What is ultimately returned by the initial method call
